@@ -6,7 +6,7 @@ import java.util.LinkedList;
  * Class Circuit
  * @author Shalini Israni
  * shalini.israni@gmail.com
- *
+ * extra comment from clone--TEST
  */
 public class Circuit {
 	private String name;
