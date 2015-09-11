@@ -10,6 +10,7 @@ import java.util.Iterator;
  * The Juggler class uses this. Each juggler instance has an instance variable - an ArrayList
  * of preferences. The reason for using ArrayList is explained in the Juggler class.
  */
+//Added a test comment from remote git from new branch
 class Preference{
 	Circuit c ;	
 	boolean visited ;
